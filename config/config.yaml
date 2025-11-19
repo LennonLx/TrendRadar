@@ -92,8 +92,7 @@ platforms:
 
   - id: "wallstreetcn-quick"
     name: "华尔街见闻 快讯"
-  - id: "wallstreetcn-news"
-    name: "华尔街见闻 最新"
+
 
   - id: "gelonghui"
     name: "格隆汇"

@@ -96,8 +96,7 @@ platforms:
 
   - id: "gelonghui"
     name: "格隆汇"
-  - id: "xueqiu"
-    name: "雪球"
+
   - id: "jin10"
     name: "金十数据"
   - id: "fastbull"
